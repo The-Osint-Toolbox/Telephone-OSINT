@@ -2,6 +2,15 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
+  <table>
+    <tr>
+        <td>Blogs</td>
+    </tr>
+</table>
+  <ul>
+    <li><a href="https://www.aware-online.com/en/how-can-i-find-a-google-account-by-phone-number/">Aware Online</a></li>
+     <p>How to find a Google account by a phone number. (2023)</p>
+  </ul>
 <table>
     <tr>
         <td>Resources</td>
