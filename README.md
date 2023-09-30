@@ -27,6 +27,6 @@
   <p>NumLookup can be used to perform a completely free reverse phone lookup for any phone number in the US.</p>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
   <p>Use numerous GiTHub tools to present searches in a GUI.</p>
-  li><a href="https://seon.io/">Seon</a></li>
+  <li><a href="https://seon.io/">Seon</a></li>
   <p>Seon is a fraud prevention tool that allows you to check an emails, IP or telephone number.</p>  
  </ul>
