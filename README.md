@@ -1,6 +1,6 @@
 # Telephone-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
   <table>
     <tr>
@@ -33,6 +33,8 @@
   <p>NumLookup can be used to perform a completely free reverse phone lookup for any phone number in the US.</p>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
   <p>Use numerous GiTHub tools to present searches in a GUI.</p>
+ <li><a href="https://www.phonevalidator.com/">PhoneValidator</a></li> 
+  <p>Validate phone numbers, to assess if they are a landline, mobile or a fake.</p>
  <li><a href="https://github.com/N0rz3/Phunter">Phunter</a></li>
   <p>Phunter is an Osint tool allowing you to find various information via a phone number.</p>
   <li><a href="https://seon.io/">Seon</a></li>
