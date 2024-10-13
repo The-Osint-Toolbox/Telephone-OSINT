@@ -3,9 +3,17 @@
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 <p>You will find helpful telephone number OSINT tools on this page. Telephone OSINT can be tricky as there are not that many open databases. You need to use various technquies and tradecraft. Apps like Truecaller, will take a number and add to their dataset, so you need to be comfortable with that risk. Always remember if you use exfiltrated data as a way of checking a number, the date the telephone number was exfiltrated is key, as these datasets can be years old. Don't forget some sites allow you to keyword search and this is another method of finding Telephone numbers.</nav></p>
 </p>
+<p>Check out the Data Acquisition OSINT repo for more resources.</p>
 <table>
   <tr>
-     <td><a href="https://github.com/The-Osint-Toolbox/Data-Acquisition-OSINT">Data Acquisition OSINT</a></td>
+    <td><a href="https://github.com/The-Osint-Toolbox/Data-Acquisition-OSINT">Data Acquisition OSINT</a></td>
+  </tr>
+</table>
+<br/>
+<p>Also check out the Telegram OSINT repo for bot resources.</p>
+<table>
+  <tr>
+    <td><a href="https://github.com/The-Osint-Toolbox/Telegram-OSINT">Telegram</a></td>
   </tr>
 </table>
 <br/>
