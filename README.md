@@ -4,15 +4,6 @@
 <p>You will find helpful telephone number OSINT tools on this page. Telephone OSINT can be tricky as there are not that many open databases. You need to use various technquies and tradecraft. Apps like Truecaller, will take a number and add to their dataset, so you need to be comfortable with that risk. Always remember if you use exfiltrated data as a way of checking a number, the date the telephone number was exfiltrated is key, as these datasets can be years old. Don't forget some sites allow you to keyword search and this is another method of finding Telephone numbers.</nav></p>
 </p>
 <br/>
-  <table>
-    <tr>
-        <td>Blogs</td>
-    </tr>
-</table>
-  <ul>
-    <li><a href="https://www.aware-online.com/en/how-can-i-find-a-google-account-by-phone-number/">Aware Online</a></li>
-     <p>How to find a Google account by a phone number. (2023)</p>
-  </ul>
 <table>
     <tr>
         <td>Resources</td>
@@ -25,6 +16,8 @@
   <p>Hunt down social media accounts by username, email or phone across social networks.</p>
  <li><a href="https://espysys.com/osint-tools-and-api/">Epsy</a></li>
   <p>Offers a free trial, OSINT Search Tools and API’s</p>
+ <li><a href="https://www.eyecon-app.com/">Eyecon-app</a></li> 
+  <p>Similar to Truecaller. See who’s calling you anytime, anywhere, caller ID and Spam blocking.</p>
  <li><a href="https://getcontact.com/en/">Get Contact</a></li>
   <p>More than 700 million of users all over the world, always know who's calling.</p>
  <li><a href="https://www.gsmarena.com/search.php3?">GSM Arena</a></li>
