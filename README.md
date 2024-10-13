@@ -41,8 +41,8 @@
   <p>Validate phone numbers, to assess if they are a landline, mobile or a fake.</p>
  <li><a href="https://github.com/N0rz3/Phunter">Phunter</a></li>
   <p>Phunter is an Osint tool allowing you to find various information via a phone number.</p>
- <li><a href="https://scamsearch.io/">ScamSearch</a></li> 
-  <p>Global scam database.</p>
+ <li><a href="https://scamsearch.io/">ScamSearch</a></li>
+   <p>Global scam database.</p>
  <li><a href="https://seon.io/">Seon</a></li>
   <p>Seon is a fraud prevention tool that allows you to check an emails, IP or telephone number.</p>
  <li><a href="https://www.thisnumber.com/">This Number</a></li>
