@@ -43,12 +43,14 @@
   <p>Ignorant allows you to check if a phone number is used on different sites like Amazon & Instagram.</p>
  <li><a href="https://www.numlookup.com/">NumLookup</li>
   <p>NumLookup can be used to perform a completely free reverse phone lookup for any phone number in the US.</p>
- <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
-  <p>Use numerous GiTHub tools to present searches in a GUI.</p>
+ <li><a href="https://github.com/phoneintel">PhoneIntel</a></li>
+  <p>Open-source solution for harnessing the power of phone number intelligence.</p>
  <li><a href="https://www.phonevalidator.com/">PhoneValidator</a></li> 
   <p>Validate phone numbers, to assess if they are a landline, mobile or a fake.</p>
  <li><a href="https://github.com/N0rz3/Phunter">Phunter</a></li>
   <p>Phunter is an Osint tool allowing you to find various information via a phone number.</p>
+ <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
+  <p>Use numerous GiTHub tools to present searches in a GUI.</p>
  <li><a href="https://scamsearch.io/">ScamSearch</a></li>
    <p>Global scam database.</p>
  <li><a href="https://seon.io/">Seon</a></li>
