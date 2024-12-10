@@ -59,4 +59,6 @@
    <p>Reverse Phone Lookup.</p>
   <li><a href="https://www.truecaller.com/">Truecaller</a></li> 
    <p>Caller ID and Spam Blocking App.</p> 
+ <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
+   <p>Reverse Phone Lookup.</p>
  </ul>
