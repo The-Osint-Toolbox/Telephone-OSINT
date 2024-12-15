@@ -51,6 +51,8 @@
   <p>Phunter is an Osint tool allowing you to find various information via a phone number.</p>
  <li><a href="https://pi-recon.streamlit.app/">Pi-Recon</a></li>
   <p>Use numerous GiTHub tools to present searches in a GUI.</p>
+ <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
+   <p>Reverse Phone Lookup.</p>
  <li><a href="https://scamsearch.io/">ScamSearch</a></li>
    <p>Global scam database.</p>
  <li><a href="https://seon.io/">Seon</a></li>
@@ -59,6 +61,4 @@
    <p>Reverse Phone Lookup.</p>
   <li><a href="https://www.truecaller.com/">Truecaller</a></li> 
    <p>Caller ID and Spam Blocking App.</p> 
- <li><a href="https://www.predictasearch.com/">Predicta Search</a></li>
-   <p>Reverse Phone Lookup.</p>
  </ul>
