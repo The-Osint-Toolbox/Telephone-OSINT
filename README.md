@@ -31,6 +31,8 @@
   <p>Offers a free trial, OSINT Search Tools and API’s</p>
  <li><a href="https://www.eyecon-app.com/">Eyecon-app</a></li>
   <p>Similar to Truecaller. See who’s calling you anytime, anywhere, caller ID and Spam blocking.</p>
+ <li><a href="https://haveibeenzuckered.com/">Facebook Checker</a></li>
+  <p>Check if your telephone number is present within the Facebook data breach.</p> 
  <li><a href="https://getcontact.com/en/">Get Contact</a></li>
   <p>More than 700 million of users all over the world, always know who's calling.</p>
  <li><a href="https://www.gsmarena.com/search.php3?">GSM Arena</a></li>
