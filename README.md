@@ -23,6 +23,8 @@
     </tr>
 </table>
 <ul>
+ <li><a href="https://whatsapp.checkleaked.cc/">CheckLeaked WhatsApp Checker</a></li>
+  <p>Check whether a phone number is registered on WhatsApp and see its public profile picture, display name, about text and personal/business flag. The number is not notified. Free account with limited lookups; paid credits and an API for bulk.</p>
  <li><a href="https://cylect.io/">Cylect</a></li>
   <p>Search tool that helps people find specific information across many websites, search engines, and data collectors</p>
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
